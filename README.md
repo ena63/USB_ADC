@@ -1,5 +1,7 @@
 # USB_ADC — firmware du module d'acquisition USB (STM32F103C6 + CH340)
 
+<p align="center"><img src="doc/module.png" alt="Module d'acquisition STM32F103 + CH340, 10 voies ADC" width="480"></p>
+
 Firmware de remplacement pour un module d'acquisition low cost à 10 voies analogiques (carte vendue comme
 « STM32F103C8T6 », micro réel **STM32F103C6** : 32 Ko de flash, 10 Ko de RAM, Chip ID 0x412), avec convertisseur
 USB-série CH340 (VID:PID `1A86:7523`).
